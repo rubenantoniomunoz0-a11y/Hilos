@@ -18,10 +18,10 @@ class Program
         });
 
         t.Start();
+        Console.WriteLine("[Main] Mensaje propio del hilo principal");
         
         t.Join(); 
         
-        Console.WriteLine("[Main] Mensaje propio del hilo principal");
         Console.WriteLine("Fin del programa");
     }
 }
