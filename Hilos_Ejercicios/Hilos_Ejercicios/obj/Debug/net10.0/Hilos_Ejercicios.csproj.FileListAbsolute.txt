@@ -1,0 +1,16 @@
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\bin\Debug\net10.0\Hilos_Ejercicios.exe
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\bin\Debug\net10.0\Hilos_Ejercicios.deps.json
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\bin\Debug\net10.0\Hilos_Ejercicios.runtimeconfig.json
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\bin\Debug\net10.0\Hilos_Ejercicios.runtimeconfig.dev.json
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\bin\Debug\net10.0\Hilos_Ejercicios.dll
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\bin\Debug\net10.0\Hilos_Ejercicios.pdb
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\obj\Debug\net10.0\Hilos_Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\obj\Debug\net10.0\Hilos_Ejercicios.AssemblyInfoInputs.cache
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\obj\Debug\net10.0\Hilos_Ejercicios.AssemblyInfo.cs
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\obj\Debug\net10.0\Hilos_Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\obj\Debug\net10.0\Hilos_Ejercicios.dll
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\obj\Debug\net10.0\refint\Hilos_Ejercicios.dll
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\obj\Debug\net10.0\Hilos_Ejercicios.pdb
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\obj\Debug\net10.0\Hilos_Ejercicios.genruntimeconfig.cache
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\obj\Debug\net10.0\ref\Hilos_Ejercicios.dll
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Hilos_Ejercicios\Hilos_Ejercicios\obj\Debug\net10.0\Hilos_Ej.0227DF19.Up2Date

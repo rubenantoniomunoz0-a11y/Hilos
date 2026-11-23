@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Hilos_Ejercicios/1.0.0": {
+        "runtime": {
+          "Hilos_Ejercicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hilos_Ejercicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
