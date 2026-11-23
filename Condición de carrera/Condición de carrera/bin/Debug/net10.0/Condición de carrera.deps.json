@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Condición de carrera/1.0.0": {
+        "runtime": {
+          "Condición de carrera.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Condición de carrera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

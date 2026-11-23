@@ -1,0 +1,17 @@
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\bin\Debug\net10.0\Condición de carrera.exe
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\bin\Debug\net10.0\Condición de carrera.deps.json
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\bin\Debug\net10.0\Condición de carrera.runtimeconfig.json
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\bin\Debug\net10.0\Condición de carrera.runtimeconfig.dev.json
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\bin\Debug\net10.0\Condición de carrera.dll
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\bin\Debug\net10.0\Condición de carrera.pdb
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\obj\Debug\net10.0\Condición de carrera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\obj\Debug\net10.0\Condición de carrera.AssemblyInfoInputs.cache
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\obj\Debug\net10.0\Condición de carrera.AssemblyInfo.cs
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\obj\Debug\net10.0\Condición de carrera.csproj.CoreCompileInputs.cache
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\obj\Debug\net10.0\Condición de carrera.sourcelink.json
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\obj\Debug\net10.0\Condición de carrera.dll
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\obj\Debug\net10.0\refint\Condición de carrera.dll
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\obj\Debug\net10.0\Condición de carrera.pdb
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\obj\Debug\net10.0\Condición de carrera.genruntimeconfig.cache
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\obj\Debug\net10.0\ref\Condición de carrera.dll
+C:\Users\rubenantoniomunoz0\Documents\GitHub\Hilos\Condición de carrera\Condición de carrera\obj\Debug\net10.0\Condici_.36B5B2CA.Up2Date
