@@ -4,10 +4,10 @@ using System.Threading;
 class Program
 {
     static int contador = 0;
+    static readonly object cerrojo = new object();
 
     static void Main()
     {
-        // Creamos dos hilos que ejecutan el mismo método
         Thread t1 = new Thread(Incrementar);
         Thread t2 = new Thread(Incrementar);
 
@@ -17,14 +17,17 @@ class Program
         t1.Join();
         t2.Join();
 
-        Console.WriteLine($"Resultado Sin Protección: {contador} (Esperado: 200000)");
+        Console.WriteLine($"Resultado con Lock: {contador} (Esperado: 200000)");
     }
 
     static void Incrementar()
     {
         for (int i = 0; i < 100_000; i++)
         {
-            contador++; // Aquí ocurre la condición de carrera
+            lock (cerrojo) 
+            {
+                contador++;
+            }
         }
     }
 }
