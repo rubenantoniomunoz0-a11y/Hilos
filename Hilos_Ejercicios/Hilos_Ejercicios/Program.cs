@@ -1,5 +1,4 @@
-﻿csharp
-using System;
+﻿using System;
 using System.Threading;
 
 class Program
@@ -19,7 +18,10 @@ class Program
         });
 
         t.Start();
+        
+        t.Join(); 
+        
         Console.WriteLine("[Main] Mensaje propio del hilo principal");
-        Console.WriteLine("Fin del programa (sin esperar al hilo)");
+        Console.WriteLine("Fin del programa");
     }
 }
